@@ -20,5 +20,8 @@
   "homepage": "https://github.com/mbbia10/Pipelines#readme",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
